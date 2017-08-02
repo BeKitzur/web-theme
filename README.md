@@ -22,7 +22,7 @@ Also can be used as a boilerplate.
 ### Installing
 1. `npm i` - to install dependencies
 2. `npm start` to start the dev server in another tab
-3. `npm build` to build production 
+3. `npm run build` to build production 
 
 ### Main packages
 
