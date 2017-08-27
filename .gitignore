@@ -61,6 +61,7 @@ dll/
 # IDE #
 .idea/
 *.swp
+/angular-theme.iml
 
 
 # Angular #

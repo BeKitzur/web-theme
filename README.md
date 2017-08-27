@@ -1,28 +1,13 @@
-# Angular 4 Webpack ES6 Bekitzur Theme
-Set of components developed in Bekitzur for Angular 4.  
-Also can be used as a boilerplate.
+# Bekitzur Angular Theme
+Set of components developed in Bekitzur for Angular.
 
 ### Components
-- Dropdown
-- Label
-- Input (Input field with validations)
-- Checkbox
-- Table (With sorting and pagination)
-- Servertable
-- Piechart (Chartist)
-- Linechart
-- Barchart
-- Tabs
 - Spinner
-- Map
-- Rightaside (Sidebar that comes from the right)
-- Card
-- Modal
 
 ### Installing
-1. `npm i` - to install dependencies
-2. `npm start` to start the dev server in another tab
-3. `npm run build` to build production 
+1. `npm i` - install dependencies
+2. `npm run server` - start dev server
+3. `npm run build` - build for production
 
 ### Main packages
 
@@ -47,22 +32,6 @@ Also can be used as a boilerplate.
 [style-npm]: https://img.shields.io/badge/npm-v0.13.1-green.svg
 [css-npm]: https://img.shields.io/badge/npm-v0.26.1-green.svg
 [sass-npm]: https://img.shields.io/badge/npm-v6.0.2-green.svg
-
-### Transpiling
-
-|Name|Status|Description|
-|:--:|:----:|:----------|
-|<a href="https://github.com/babel/babel-loader"><img width="48" height="48" title="babel-loader" src="https://rawgit.com/babel/logo/master/babel.svg"></a>|![babel-npm]|Loads ES2015+ code and transpiles to ES5 using <a href="https://github.com/babel/babel">Babel</a>|
-
-[babel-npm]: https://img.shields.io/badge/npm-v6.13.2-green.svg
-
-### Templating
-
-|Name|Status|Description|
-|:--:|:----:|:----------|
-|<a href="https://github.com/pugjs/pug-loader"><img width="48" height="48" src="https://cdn.rawgit.com/pugjs/pug-logo/master/SVG/pug-final-logo-_-colour-128.svg"></a>|![pug-npm]|Loads Pug templates and returns a function|
-
-[pug-npm]: https://img.shields.io/badge/npm-v2.0.0-green.svg
 
 ### Testing
 
